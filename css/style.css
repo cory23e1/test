@@ -263,7 +263,7 @@ textarea {
 }
 
 #header_info h1{
-  padding-left: 50px;
+  padding-left: 25px;
 }
 
 #logo{
@@ -283,6 +283,19 @@ textarea {
 .content_text_block{
   font-size: 30pt;
   padding-left: 15%;
+}
+
+.article_block{
+  height: 650px;
+  width: 800px;
+  align-self: center;
+  cursor: pointer;
+  margin-bottom: 60px;
+}
+
+#article1{
+  background-image: url("../img/article1/logo_article1.png");
+  background-size: cover;
 }
 
 #footer{
