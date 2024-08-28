@@ -291,7 +291,6 @@ textarea {
   height: 520px;
   width: 920px;
   background-size: cover;
-
   align-self: center;
   cursor: pointer;
   margin-bottom: 60px;
@@ -345,6 +344,17 @@ textarea {
   font-size: 10pt;
   font-weight: bolder;
   color: white;
+}
+
+.soc_icon{
+  display: block;
+  height: 30px;
+  width: 30px;
+  background-size: cover;
+}
+
+#icon_vk{
+  background-image: url("../img/social_media/vk.png");
 }
 
 #footer_btn_block{
