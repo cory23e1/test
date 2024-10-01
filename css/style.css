@@ -168,6 +168,52 @@ textarea {
    Modify as content requires.
    ========================================================================== */
 
+@media only screen and (min-width: 0px) and (max-width: 400px) {
+    #logo{
+      height:118px !important;
+      width:118px !important;
+    }
+
+    .article_block{
+      height:209px !important;
+      width:370px !important;
+    }
+
+    .content_text_block{
+       margin-top: 7px !important;
+       margin-bottom: 11px !important;
+       font-size: 14pt !important;
+       padding-left: 8% !important;
+    }
+
+    #header{
+      align-items: center !important;
+      padding-bottom:10px !important;
+    }
+
+    #btn_learn_more{
+      width: 343px !important;
+      height: 103px !important;
+      font-size: 19pt !important;
+    }
+
+    #header_info{
+      border:none !important;
+      font-size: 15pt !important;
+    }
+
+    #footer_links{
+      display:flex !important;
+      flex-direction: column !important;
+      padding-left: 33px !important;
+    }
+    
+    .footer_block{
+      font-size: 10pt !important;
+    }
+}
+
+/*
 @media only screen and (max-width: 768px) {
     #logo{
       height:200px !important;
@@ -208,14 +254,7 @@ textarea {
       padding-left: 50px !important;
     }
 }
-
-@media only screen and (max-width: 850px) {
-    .article_block{
-      height:450px !important;
-      width:800px !important;
-    }
-}
-
+*/
 
 @media only screen and (min-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
