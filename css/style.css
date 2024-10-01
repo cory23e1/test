@@ -182,7 +182,7 @@ textarea {
     .content_text_block{
        margin-top: 7px !important;
        margin-bottom: 11px !important;
-       font-size: 12pt !important;
+       font-size: 10pt !important;
        padding-left: 3% !important;
     }
 
@@ -193,14 +193,14 @@ textarea {
     }
 
     #btn_learn_more{
-      width: 298px !important;
-      height: 78px !important;
-      font-size: 15pt !important;
+      width: 263px !important;
+      height: 70px !important;
+      font-size: 11pt !important;
     }
 
     #header_info{
       border:none !important;
-      font-size: 12pt !important;
+      font-size: 10pt !important;
     }
 
     #footer{
