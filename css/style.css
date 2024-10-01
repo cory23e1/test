@@ -224,7 +224,7 @@ textarea {
 }
 
 
-@media only screen and (max-width: 400px) and (max-width: 800px) {
+@media only screen and (min-width: 400px) and (max-width: 800px) {
     #logo{
       height:200px !important;
       width:200px !important;
