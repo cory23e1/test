@@ -204,6 +204,8 @@ textarea {
 
     #footer_links{
       display:flex !important;
+      flex-direction: column !important;
+      padding-left: 50px !important;
     }
   
 }
