@@ -203,6 +203,10 @@ textarea {
       font-size: 12pt !important;
     }
 
+    #footer{
+      justify-content: normal !important;
+    }
+
     #footer_links{
       display:flex !important;
       flex-direction: column !important;
@@ -211,6 +215,11 @@ textarea {
     
     .footer_block{
       font-size: 10pt !important;
+      padding-left:10% !important;
+    }
+
+    #footer_btn_block{
+      height: 135px !important;
     }
 }
 
