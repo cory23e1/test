@@ -188,7 +188,7 @@ textarea {
 
     #header{
       align-items: center !important;
-      padding-bottom:0px;
+      padding-bottom:0px !important;
     }
 
     #btn_learn_more{
@@ -198,8 +198,8 @@ textarea {
     }
 
     #header_info{
-      border:none;
-      font-size: 18pt;
+      border:none !important;
+      font-size: 18pt !important;
     }
   
 }
