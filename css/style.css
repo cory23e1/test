@@ -170,13 +170,13 @@ textarea {
 
 @media only screen and (max-width: 600px) {
     #logo{
-      height:200px;
-      width:200px;
+      height:200px !important;
+      width:200px !important;
     }
 
     .article_block{
-      height:350px;
-      width:570px;
+      height:350px !important;
+      width:570px !important;
     }
 }
 
