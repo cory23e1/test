@@ -185,6 +185,10 @@ textarea {
       font-size: 20pt;
       padding-left: 9%;
     }
+
+    .header{
+      align-items: center
+    }
   
 }
 
