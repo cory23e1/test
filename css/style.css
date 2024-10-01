@@ -207,7 +207,13 @@ textarea {
       flex-direction: column !important;
       padding-left: 50px !important;
     }
-  
+}
+
+@media only screen and (max-width: 850px) {
+    .article_block{
+      height:450px !important;
+      width:800px !important;
+    }
 }
 
 
