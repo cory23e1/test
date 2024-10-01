@@ -189,7 +189,12 @@ textarea {
     .header{
       align-items: center !important;
     }
-  
+
+    #btn_learn_more{
+      width: 450px !important;
+      height: 130px !important;
+      font-size: 25pt !important;
+    }
 }
 
 
