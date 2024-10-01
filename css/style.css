@@ -201,6 +201,10 @@ textarea {
       border:none !important;
       font-size: 18pt !important;
     }
+
+    #footer_links{
+      display:flex !important;
+    }
   
 }
 
@@ -297,6 +301,7 @@ textarea {
   align-self: flex-end;
   border-left: solid 5px rgb(17 44 94);
   color: rgb(17 44 94);
+  font-weight:600;
 }
 
 #header_info h1{
