@@ -188,7 +188,8 @@ textarea {
 
     #header{
       align-items: center !important;
-      padding-bottom:10px !important;
+      padding-bottom: 16px !important;
+      padding-top: 16px !important;
     }
 
     #btn_learn_more{
