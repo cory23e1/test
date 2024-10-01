@@ -412,6 +412,11 @@ textarea {
   padding-bottom: 25px;
 }
 
+.footer_block_label{
+  font-size:20pt;
+  font-weight:bold;
+}
+
 #footer h2{
 
 }
