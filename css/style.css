@@ -177,6 +177,7 @@ textarea {
     .article_block{
       height: 183px !important;
       width: 323px !important;
+      margin-bottom: 28px !important;
     }
 
     .content_text_block{
