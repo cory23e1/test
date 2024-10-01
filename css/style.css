@@ -175,14 +175,14 @@ textarea {
     }
 
     .article_block{
-      height:209px !important;
-      width:370px !important;
+      height: 183px !important;
+      width: 323px !important;
     }
 
     .content_text_block{
        margin-top: 7px !important;
        margin-bottom: 11px !important;
-       font-size: 14pt !important;
+       font-size: 12pt !important;
        padding-left: 8% !important;
     }
 
@@ -192,20 +192,20 @@ textarea {
     }
 
     #btn_learn_more{
-      width: 343px !important;
-      height: 103px !important;
-      font-size: 19pt !important;
+      width: 298px !important;
+      height: 78px !important;
+      font-size: 15pt !important;
     }
 
     #header_info{
       border:none !important;
-      font-size: 15pt !important;
+      font-size: 12pt !important;
     }
 
     #footer_links{
       display:flex !important;
       flex-direction: column !important;
-      padding-left: 33px !important;
+      padding-left: 23px !important;
     }
     
     .footer_block{
