@@ -222,6 +222,10 @@ textarea {
     #footer_btn_block{
       height: 135px !important;
     }
+
+    .footer_block_label{
+      font-size:10pt !important;
+    }
 }
 
 
