@@ -180,14 +180,14 @@ textarea {
     }
 
     .content_text_block{
-      margin-top: 17px;
-      margin-bottom: 16px;
-      font-size: 20pt;
-      padding-left: 9%;
+      margin-top: 17px !important;
+      margin-bottom: 16px !important;
+      font-size: 20pt !important;
+      padding-left: 9% !important;
     }
 
     .header{
-      align-items: center
+      align-items: center !important;
     }
   
 }
