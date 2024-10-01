@@ -436,7 +436,7 @@ textarea {
 
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: repeat(auto-fit, 650px);
+  grid-template-columns: repeat(auto-fit, 525px);
   justify-items: stretch;
   justify-content: center;
 
